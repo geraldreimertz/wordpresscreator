@@ -1,5 +1,5 @@
 # wordpresscreator
-The final Script of my [Youtube Video](https://www.youtube.com/watch?v=obDw9jONTjs) developed with the help of [GPT3](https://beta.openai.com/playground)
+The final Script from my [Youtube Video](https://www.youtube.com/watch?v=obDw9jONTjs) developed with the help of [GPT3](https://beta.openai.com/playground)
 
 The script automatically creates a new wordpress site, or copies an existing one on an ubuntu nginx mysql system. Additionally the SSL certification is done with certbot and nginx configured. 
 
